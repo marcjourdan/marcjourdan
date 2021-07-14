@@ -30,8 +30,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
- - name: Arxiv
+ - name: Custom Link
    url: https://arxiv.org/abs/1810.11956
 
-url_pdf: 'https://arxiv.org/pdf/1810.11956'
+url_pdf: 'jourdan18a.pdf'
 ---
