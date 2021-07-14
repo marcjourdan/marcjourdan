@@ -1,7 +1,7 @@
 ---
 title: Marc Jourdan
 role: PhD Student
-avatar_filename: watermarked_547_small.jpg
+avatar_filename: avatar.jpg
 bio: PhD student at Scool (Inria), I study identification problems in
   Multi-Armed Bandits.
 interests:
