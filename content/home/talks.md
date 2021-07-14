@@ -5,6 +5,7 @@ headless: true
 weight: 50
 title: Teaching
 subtitle: null
+active: true
 content:
   page_type: event
   count: 5
@@ -20,4 +21,5 @@ content:
   order: desc
 design:
   view: 2
+  columns: "2"
 ---
