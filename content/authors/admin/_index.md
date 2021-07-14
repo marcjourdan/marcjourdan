@@ -47,3 +47,5 @@ highlight_name: false
 I am a first-year PhD student at CRIStAL (CNRS) in the Inria Scool team (formerly SequeL), under the supervision of [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/) and [Rémy Degenne](https://remydegenne.github.io/). Prior to my PhD, I graduated from ETH Zurich and École Polytechnique.
 
 My main research interest is Multi-Armed Bandits, with a particular focus on identification problems. I also explore the theoretical understanding of these algorithms when only few samples are available.
+
+My research interests also include reinforcement learning, online learning, Bayesian optimization, statistics and machine learning in general. I focus on developing theoretically well-founded and practically applicable algorithms.
