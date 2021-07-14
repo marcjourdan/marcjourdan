@@ -11,8 +11,8 @@ address:
   region:
   postcode:
   country:
-summary: "Instructor: [Otmar Hilliges](https://ait.ethz.ch/people/hilliges/)"
-abstract: Recent developments in neural network (aka “deep learning”) have drastically advanced the performance of machine perception systems in a variety of areas including drones, self-driving cars and intelligent UIs. This course is a deep dive into details of the deep learning algorithms and architectures for a variety of perceptual tasks.
+summary: "Instructor: Otmar Hilliges"
+abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
