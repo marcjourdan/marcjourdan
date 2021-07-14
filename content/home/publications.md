@@ -3,7 +3,7 @@ widget: pages
 widget_id: Publications
 headless: true
 weight: 20
-title: ""
+title: Publications
 subtitle: ""
 active: true
 content:
