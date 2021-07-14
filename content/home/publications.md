@@ -5,6 +5,7 @@ headless: true
 weight: 20
 title: ""
 subtitle: ""
+active: true
 content:
   page_type: publication
   count: 5
