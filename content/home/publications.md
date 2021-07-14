@@ -19,4 +19,5 @@ content:
     exclude_featured: true
 design:
   view: 4
+  columns: "2"
 ---
