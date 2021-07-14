@@ -3,7 +3,7 @@ title: "Efficient Pure Exploration for Combinatorial Bandits with Semi-Bandit Fe
 
 # Authors
 authors:
-- Marc Jourdan
+- admin
 - Mojmír Mutný
 - Johannes Kirschner
 - Andreas Krause
@@ -30,8 +30,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
- - name: Arxiv
-   url: https://arxiv.org/abs/2101.08534
+# - name: Arxiv
+#   url: https://arxiv.org/abs/2101.08534
 
 url_pdf: 'jourdan21a.pdf'
 url_slides: 'ALT2021TalkPECB.pdf'
