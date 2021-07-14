@@ -22,7 +22,7 @@ abstract: Combinatorial bandits with semi-bandit feedback generalize multi-armed
 tags: ["Combinatorial Bandits", "Pure Exploration", "Best-Arm Identification"]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
