@@ -3,8 +3,9 @@ widget: contact
 widget_id: Contact
 headless: true
 weight: 60
-title: ""
+title: Contact
 subtitle: null
+active: true
 content:
   autolink: true
   form:
