@@ -3,7 +3,7 @@ widget: pages
 widget_id: Teaching
 headless: true
 weight: 50
-title: ""
+title: Teaching
 subtitle: null
 content:
   page_type: event
