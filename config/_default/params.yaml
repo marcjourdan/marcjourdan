@@ -21,7 +21,6 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: marc.jourdan@inria.fr
-phone: ''
 address:
   street: Inria Lille-Nord Europe, 40 Avenue Halley
   city: Villeneuve-d'Ascq
@@ -33,24 +32,6 @@ coordinates:
   latitude: '50.60604'
   longitude: '3.14816'
 directions: Bâtiment A
-appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
 
 # Site header
 
