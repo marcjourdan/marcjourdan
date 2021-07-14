@@ -31,6 +31,15 @@ experience:
     date_end: '2021-07-31'
     description: Bandit identification with continuous answers under the supervision of Dr. Rémy Degenne.
 
+  - title: Master’s Thesis
+    company: Learning & Adaptive Systems (ETH Zurich)
+    company_url: 'https://las.inf.ethz.ch/'
+    company_logo: 'ETHZ-logo'
+    location: Zurich, Switzerland
+    date_start: '2020-04-01'
+    date_end: '2020-09-30'
+    description: Pure exploration for combinatorial semi-bandits in the group of Prof. Dr. Andreas Krause.
+
 design:
   columns: '2'
 ---
