@@ -25,9 +25,9 @@ tags: ["Combinatorial Bandits", "Pure Exploration", "Best-Arm Identification"]
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
- - name: Arxiv
-   url: https://arxiv.org/abs/2101.08534
+links:
+  - name: Arxiv
+    url: 'https://arxiv.org/abs/2101.08534'
 
 url_pdf: 'https://arxiv.org/pdf/2101.08534'
 #url_slides: 'ALT2021TalkPECB.pdf'
