@@ -2,11 +2,7 @@
 title: "Efficient Pure Exploration for Combinatorial Bandits with Semi-Bandit Feedback"
 
 # Authors
-authors:
-- admin
-- Mojmír Mutný
-- Johannes Kirschner
-- Andreas Krause
+authors: [admin, Mojmír Mutný, Johannes Kirschner, Andreas Krause]
 
 date: "2021-01-21"
 doi: ""
@@ -34,9 +30,31 @@ featured: true
 #   url: https://arxiv.org/abs/2101.08534
 
 url_pdf: 'jourdan21a.pdf'
-url_slides: 'ALT2021TalkPECB.pdf'
+#url_slides: 'ALT2021TalkPECB.pdf'
 url_video: 'https://www.youtube.com/watch?v=EZHhN4YQh4U'
 #url_code: ''
 #url_poster: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: ""
 
 ---
