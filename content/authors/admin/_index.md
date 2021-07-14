@@ -1,77 +1,49 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Marc Jourdan
+role: PhD Student
+avatar_filename: watermarked_547_small.jpg
+bio: PhD student at Scool (Inria), I study identification problems in
+  Multi-Armed Bandits.
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - Machine Learning
+  - Multi-Armed Bandits
+  - Reinforcement Learning
+  - Online Learning
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=BOXGjhgAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Maru92
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/marc-jourdan/
+organizations:
+  - name: Scool (Inria)
+    url: https://team.inria.fr/scool/
+  - name: CRIStAL (CNRS)
+    url: https://www.cristal.univ-lille.fr/
+  - name: Univ. Lille
+    url: https://www.univ-lille.fr/
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: PhD Student
+      institution: Scool (Inria) / CRIStAL (CNRS) / Univ. Lille
+      year: ""
+    - course: MSc ETH in Data Science
+      institution: ETH Zurich
+      year: ""
+    - course: Diplôme d'Ingénieur (MSc)
+      institution: École Polytechnique
+      year: ""
 email: ""
-
-# Highlight the author in author lists? (true/false)
+superuser: true
 highlight_name: false
 ---
+I am a first-year PhD student at CRIStAL (CNRS) in the Inria Scool team (formerly SequeL), under the supervision of [Emilie Kaufmann](http://chercheurs.lille.inria.fr/ekaufman/) and [Rémy Degenne](https://remydegenne.github.io/). Prior to my PhD, I graduated from ETH Zurich and École Polytechnique.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+My main research interest is Multi-Armed Bandits, with a particular focus on identification problems. I also explore the theoretical understanding of these algorithms when only few samples are available.
