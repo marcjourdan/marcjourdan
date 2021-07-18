@@ -6,7 +6,7 @@
 # Appearance
 
 #theme: minimal
-theme: "my_theme"
+theme: "my_themes"
 day_night: false
 font: ''
 font_size: L
