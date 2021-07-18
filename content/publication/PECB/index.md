@@ -30,7 +30,7 @@ links:
     url: 'https://arxiv.org/abs/2101.08534'
 
 url_pdf: 'https://arxiv.org/pdf/2101.08534'
-#url_slides: 'ALT2021TalkPECB.pdf'
+url_slides: 'ALT2021TalkPECB.pdf'
 url_video: 'https://www.youtube.com/watch?v=EZHhN4YQh4U'
 #url_code: ''
 #url_poster: ''
