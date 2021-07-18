@@ -118,7 +118,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: OpenStreetMap
   api_key: ''
   zoom: 15
 marketing:
