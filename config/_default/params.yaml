@@ -48,7 +48,7 @@ main_menu:
 
 date_format: 'Jan 2, 2006'
 time_format: '3:04 PM'
-address_format: fr-f
+address_format: fr-fr
 
 # Site features
 
