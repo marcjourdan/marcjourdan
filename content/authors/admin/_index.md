@@ -33,13 +33,13 @@ education:
   courses:
     - course: PhD Student
       institution: Scool (Inria) / CRIStAL (CNRS) / Univ. Lille
-      year: ""
+      year: "2021-now"
     - course: MSc ETH in Data Science
       institution: ETH Zurich
-      year: ""
+      year: "2018-2020"
     - course: Diplôme d'Ingénieur (MSc)
       institution: École Polytechnique
-      year: ""
+      year: "2015-2018"
 email: ""
 superuser: true
 highlight_name: false
