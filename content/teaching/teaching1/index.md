@@ -1,9 +1,9 @@
 ---
 title: Machine Perception
 event: ''
-event_url: ''
+event_url: 'https://ait.ethz.ch/teaching/courses/2020-SS-Machine-Perception/'
 
-location: ETH Zurich
+location: 'ETH Zurich'
 address:
   street: ''
   city: ''
@@ -12,12 +12,12 @@ address:
   country: ''
 
 summary: 'Instructor: Otmar Hilliges'
-abstract: ''
+abstract: 'Recent developments in neural network (aka “deep learning”) have drastically advanced the performance of machine perception systems in a variety of areas including drones, self-driving cars and intelligent UIs. This course is a deep dive into details of the deep learning algorithms and architectures for a variety of perceptual tasks.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2020-02-20"
+date_end: "2020-05-28"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
