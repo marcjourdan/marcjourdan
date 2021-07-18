@@ -3,7 +3,7 @@
 
 title: "Machine Perception"
 event:
-event_url: 'https://ait.ethz.ch/teaching/courses/2020-SS-Machine-Perception/'
+event_url: 
 location: ETH Zurich
 address:
   street:
