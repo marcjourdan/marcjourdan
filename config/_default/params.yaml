@@ -133,3 +133,4 @@ cms:
 icon:
   pack:
     ai: true
+    custom: true
