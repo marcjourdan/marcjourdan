@@ -1,6 +1,6 @@
 ---
-# An instance of the Pages widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
+# A Teaching section created with the Pages widget.
+# This section displays recent teaching from `content/teaching/`.
 widget: pages
 
 # This file represents a page section.
@@ -15,7 +15,7 @@ subtitle: ""
 
 content:
   # Page type to display. E.g. post, event, publication...
-  page_type: book
+  page_type: "teaching"
   # Choose how many pages you would like to display (0 = all pages)
   count: 5
   # Filter on criteria
