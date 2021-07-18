@@ -1,5 +1,5 @@
 ---
-title: "Characterizing Entities in the Bitcoin Blockchain"
+title: "A Probabilistic Model of the Bitcoin Blockchain"
 
 # Authors
 authors: [admin, Sebastien Blandin, Laura Wynter, Pralhad Deshpande]
