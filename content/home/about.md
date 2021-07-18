@@ -21,9 +21,9 @@ author: admin
 
 design:
   background:
-    gradient_start: '#caf0f8'
-    gradient_end: '#48cae4'
+    gradient_start: '#ffffff'
+    gradient_end: '#caf0f8'
     gradient_angle: 180
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    text_color_light: true
+    text_color_light: false
 ---
