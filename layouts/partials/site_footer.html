@@ -12,13 +12,13 @@
     </div>
   {{ end }}
 
-  {{ if or (site.GetPage "/terms.md") (.getPage "/privacy.md") }}
+  {{ if or (site.GetPage "/terms.md") (.GetPage "/privacy.md") }}
   <p class="powered-by">
-    {{ with .getPage "/privacy.md" }}
+    {{ with .GetPage "/privacy.md" }}
       {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
     {{ end }}
     {{ with site.GetPage "/terms.md" }}
-      {{ if .getPage "/privacy.md" }} &middot; {{ end }}
+      {{ if .GetPage "/privacy.md" }} &middot; {{ end }}
       {{ printf "<a href=\"%s\">%s</a>" .RelPermalink .Title | safeHTML }}
     {{ end }}
   </p>
