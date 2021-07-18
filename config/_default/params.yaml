@@ -7,7 +7,7 @@
 
 theme: minimal
 #theme: "my_theme"
-day_night: true
+day_night: false
 font: ''
 font_size: L
 
