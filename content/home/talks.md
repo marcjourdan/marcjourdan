@@ -10,12 +10,12 @@ active: true
 # Order that this section appears on the page.
 weight: 40
 
-title: "Recent & Upcoming Talks"
+title: "Talks"
 subtitle: ""
 
 content:
   # Page type to display. E.g. post, event, publication...
-  page_type: "talk"
+  page_type: talk
   # Choose how many pages you would like to display (0 = all pages)
   count: 5
   # Filter on criteria
@@ -40,3 +40,5 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
+
+Test 1
