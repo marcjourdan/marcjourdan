@@ -19,10 +19,10 @@ content:
   
 design:
   columns: '2'
-  background:
-    gradient_start: '#caf0f8'
-    gradient_end: '#ffffff'
-    gradient_angle: 180
-    # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    text_color_light: false
+#  background:
+#    gradient_start: '#caf0f8'
+#    gradient_end: '#ffffff'
+#    gradient_angle: 180
+#    # Text color (true=light, false=dark, or remove for the dynamic theme color).
+#    text_color_light: false
 ---

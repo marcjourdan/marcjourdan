@@ -19,11 +19,11 @@ title: Biography
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
 
-design:
-  background:
-    gradient_start: '#ffffff'
-    gradient_end: '#caf0f8'
-    gradient_angle: 180
-    # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    text_color_light: false
+#design:
+#  background:
+#    gradient_start: '#ffffff'
+#    gradient_end: '#caf0f8'
+#    gradient_angle: 180
+#    # Text color (true=light, false=dark, or remove for the dynamic theme color).
+#    text_color_light: false
 ---
