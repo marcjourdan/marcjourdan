@@ -22,7 +22,8 @@ twitter: ''
 
 email: marc.jourdan@inria.fr
 address: 
-  street: "<html>Inria Lille-Nord Europe<br/>40 Avenue Halley</html>"
+  street: "Inria Lille-Nord Europe
+	   40 Avenue Halley"
   city: Villeneuve-d'Ascq
   postcode: '59650'
   country: France
