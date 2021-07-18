@@ -7,12 +7,12 @@ location: ETH Zurich
 address:
   street: Rämistrasse 101
   city: Zurich
-  region: ''
+  region: 
   postcode: '8092'
   country: Switzerland
 
 summary: "Instructor: Otmar Hilliges"
-abstract: 
+abstract: "Recent developments in neural network (aka “deep learning”) have drastically advanced the performance of machine perception systems in a variety of areas including drones, self-driving cars and intelligent UIs. This course is a deep dive into details of the deep learning algorithms and architectures for a variety of perceptual tasks."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -60,6 +60,4 @@ projects: []
 # Enable math on this page?
 math: true
 ---
-
-Recent developments in neural network (aka “deep learning”) have drastically advanced the performance of machine perception systems in a variety of areas including drones, self-driving cars and intelligent UIs. This course is a deep dive into details of the deep learning algorithms and architectures for a variety of perceptual tasks.
 
