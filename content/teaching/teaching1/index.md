@@ -1,18 +1,18 @@
 ---
 title: Machine Perception
-event: ''
-event_url: 'https://ait.ethz.ch/teaching/courses/2020-SS-Machine-Perception/'
+event: Machine Perception
+event_url: "https://ait.ethz.ch/teaching/courses/2020-SS-Machine-Perception/"
 
-location: 'ETH Zurich'
+location: ETH Zurich
 address:
-  street: ''
-  city: ''
+  street: Rämistrasse 101
+  city: Zurich
   region: ''
-  postcode: ''
-  country: ''
+  postcode: '8092'
+  country: Switzerland
 
-summary: 'Instructor: Otmar Hilliges'
-abstract: 'Recent developments in neural network (aka “deep learning”) have drastically advanced the performance of machine perception systems in a variety of areas including drones, self-driving cars and intelligent UIs. This course is a deep dive into details of the deep learning algorithms and architectures for a variety of perceptual tasks.'
+summary: "Instructor: Otmar Hilliges"
+abstract: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -61,4 +61,5 @@ projects: []
 math: true
 ---
 
+Recent developments in neural network (aka “deep learning”) have drastically advanced the performance of machine perception systems in a variety of areas including drones, self-driving cars and intelligent UIs. This course is a deep dive into details of the deep learning algorithms and architectures for a variety of perceptual tasks.
 
