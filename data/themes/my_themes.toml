@@ -16,7 +16,7 @@ menu_title = "#2b2b2b"
 # Home sections
 background = "#ffffff"
 home_section_odd = "#d5f3f9"
-home_section_even = "#caf0f8"
+home_section_even = "#ade8f4"
 
-link = "#D90429"
-link_hover = "#118AB2"
+link = "#03045e"
+link_hover = "#D90429"
