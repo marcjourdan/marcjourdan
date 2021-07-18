@@ -1,9 +1,9 @@
 ---
-title: Talk 1
+title: Machine Perception
 event: ''
 event_url: ''
 
-location: ''
+location: ETH Zurich
 address:
   street: ''
   city: ''
@@ -11,7 +11,7 @@ address:
   postcode: ''
   country: ''
 
-summary: ''
+summary: 'Instructor: Otmar Hilliges'
 abstract: ''
 
 # Talk start and end times.
