@@ -67,6 +67,7 @@ footer a#back_to_top i {
 .pub-list-item .pub-publication {
   color: #090;
   font-size: 1rem;
+  font-weight: bold;
 }
 
 .pub-list-item .pub-links {
