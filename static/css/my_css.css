@@ -38,6 +38,7 @@ footer a#back_to_top i {
 
 .pub .pub-title {
   margin-bottom: 5px;
+  font-weight: bold;
 }
 
 .pub .pub-authors {
@@ -73,7 +74,7 @@ footer a#back_to_top i {
   padding-top: 10px;
 }
 
-container-publications {
+#container-publications {
   display: block;
   position: relative;
   overflow: hidden;
