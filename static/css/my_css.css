@@ -6,3 +6,8 @@ footer {
   background-color: #d5f3f9;
 }
 
+.pub-list-item .pub-publication {
+  color: #ffffff;/*#090;*/
+  font-size: 1rem;
+  font-weight: bold;
+}
