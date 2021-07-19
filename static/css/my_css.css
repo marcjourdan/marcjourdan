@@ -23,7 +23,7 @@
 html {
   font-family: '{{ .Get "body_font" }}', sans-serif;
   font-size: {{ .Get "font_size_small" }}px;
-  color: #e21212; /*rgba(0,0,0,0.8); /*this is the color of the body text*/
+  color: rgba(0,0,0,0.8); /*this is the color of the body text*/
   line-height: 1.65;
 }
 @media screen and (min-width: 58em) {
@@ -852,7 +852,7 @@ footer p {
 
 .site-footer,
 footer a#back_to_top i {
-  color: #d5f3f9; 
+  color: #899596; 
 }
 
 /*************************************************
