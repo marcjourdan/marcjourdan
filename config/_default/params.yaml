@@ -53,6 +53,7 @@ address_format: fr-fr
 # Site features
 
 highlight: true
+highlight_name : admin
 highlight_languages:
   - r
 math: false
