@@ -85,6 +85,7 @@ copyright_license:
   notice: 'This work is licensed under {license}'
 abstract_length: 135
 plugins_js: []
+custom_css: ["my_css.css"]
 avatar:
   gravatar: false
   shape: circle
