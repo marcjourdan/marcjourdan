@@ -851,7 +851,8 @@ footer p {
 
 .site-footer,
 footer a#back_to_top i {
-  color: #d5f3f9; /* #899596; */
+  color: #899596; 
+  background-color: #d5f3f9;
 }
 
 /*************************************************
