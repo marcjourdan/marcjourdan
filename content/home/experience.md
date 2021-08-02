@@ -34,7 +34,7 @@ experience:
   - title: Master's Thesis
     company: Learning and Adaptive Systems (ETH Zurich)
     company_url: 'https://las.inf.ethz.ch/'
-    company_logo: ETHZ-logo
+    company_logo: ethz-logo
     location: Zurich, Switzerland
     date_start: '2020-04-01'
     date_end: '2020-09-30'
@@ -43,7 +43,7 @@ experience:
   - title: Part time Data Scientist 
     company: AMAG Leasing
     company_url: 'https://www.amag-leasing.ch/'
-    company_logo: AMAG-logo
+    company_logo: amag-logo
     location: Zurich, Switzerland
     date_start: '2019-02-01'
     date_end: '2019-07-31'
@@ -52,7 +52,7 @@ experience:
   - title: Research Intern
     company: IBM Singapore Lab
     company_url: 'https://www.research.ibm.com/'
-    company_logo: IBM-logo
+    company_logo: ibm-logo
     location: Singapore
     date_start: '2018-04-01'
     date_end: '2018-08-12'
@@ -61,7 +61,7 @@ experience:
   - title: Research Intern
     company: STMicroelectronics
     company_url: 'https://www.st.com/'
-    company_logo: STMicroelectronics-logo
+    company_logo: stmicroelectronics-logo
     location: Crolles, France
     date_start: '2017-06-01'
     date_end: '2017-08-12'
