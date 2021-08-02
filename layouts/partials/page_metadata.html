@@ -18,9 +18,9 @@
     {{ $date := $page.Lastmod.Format site.Params.date_format }}
     {{ if eq $page.Type "publication" }}
       {{ $date = $page.Date.Format (site.Params.publications.date_format | default "January, 2006") }}
-<!--    {{ else }}
+    {{ else }}
       {{ if ne $page.Params.Lastmod $page.Params.Date }}
-          {{ i18n "last_updated" }}-->
+          {{}}<!--{{ i18n "last_updated" }}-->
       {{ end }}
     {{ end }}
     {{ $date }}
