@@ -1,22 +1,22 @@
 ---
-title: "Top Two Algorithms Revisited"
-event: 'StatMathAppli'
-event_url: 'https://statmathappli.mathnum.inrae.fr/fr'
+title: "Efficient Pure Exploration for Combinatorial Bandits with Semi-Bandit Feedback"
+event: 'LAS Seminars'
+event_url: 'https://las.inf.ethz.ch/'
 
-location: 'Villa Clythia'
+location: 'ETH Zurich'
 address:
   street: ''
-  city: 'Fréjus'
+  city: 'Zurich'
   region: ''
   postcode: ''
-  country: 'France'
+  country: 'Switzerland'
 
 summary: ''
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-09-01T18:20:00Z"
+date: "2020-10-14T11:00:00Z"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
@@ -40,7 +40,7 @@ featured: false
 #  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: "statmathapplipresentation.pdf"
+url_slides: ""
 url_video: ""
 
 # Markdown Slides (optional).

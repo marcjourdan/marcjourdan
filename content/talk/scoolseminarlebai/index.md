@@ -1,12 +1,12 @@
 ---
-title: "Top Two Algorithms Revisited"
-event: 'StatMathAppli'
-event_url: 'https://statmathappli.mathnum.inrae.fr/fr'
+title: "Choosing Answers in ε-Best-Answer Identification for Linear Bandits"
+event: 'Scool Seminar'
+event_url: 'https://team.inria.fr/scool/news/#seminars'
 
-location: 'Villa Clythia'
+location: 'Inria Lille - Nord Europe'
 address:
   street: ''
-  city: 'Fréjus'
+  city: "Villeneuve d'Ascq"
   region: ''
   postcode: ''
   country: 'France'
@@ -16,7 +16,7 @@ abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-09-01T18:20:00Z"
+date: "2022-11-19T11:00:00Z"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
