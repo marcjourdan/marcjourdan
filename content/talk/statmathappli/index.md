@@ -1,5 +1,5 @@
 ---
-title: "Top Two Algorithms Revisited"
+title: "StatMathAppli: Top Two Algorithms Revisited"
 event: 'StatMathAppli'
 event_url: 'https://statmathappli.mathnum.inrae.fr/fr'
 
@@ -40,7 +40,7 @@ featured: true
 #  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: "statmathapplipresentation.pdf"
+url_slides: ""
 url_video: ""
 
 # Markdown Slides (optional).

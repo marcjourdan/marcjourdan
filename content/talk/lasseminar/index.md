@@ -1,5 +1,5 @@
 ---
-title: "Efficient Pure Exploration for Combinatorial Bandits with Semi-Bandit Feedback"
+title: "LAS Seminar: Efficient Pure Exploration for Combinatorial Bandits with Semi-Bandit Feedback"
 event: 'LAS Seminar'
 event_url: 'https://las.inf.ethz.ch/'
 
