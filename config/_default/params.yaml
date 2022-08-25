@@ -22,7 +22,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: marc.jourdan@inria.fr
-address: 
+address:
   street: "<html>Inria Lille-Nord Europe<br/>40 Avenue Halley</html>"
   city: Villeneuve-d'Ascq
   postcode: '59650'
@@ -95,7 +95,7 @@ publications:
 projects:
   post_view: 2
   publication_view: 2
-  talk_view: 2
+  talk_view: 1
 breadcrumb:
   page_types:
     book: true
