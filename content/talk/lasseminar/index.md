@@ -1,6 +1,6 @@
 ---
 title: "Efficient Pure Exploration for Combinatorial Bandits with Semi-Bandit Feedback"
-event: 'LAS Seminars'
+event: 'LAS Seminar'
 event_url: 'https://las.inf.ethz.ch/'
 
 location: 'ETH Zurich'
@@ -27,7 +27,7 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 #image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
