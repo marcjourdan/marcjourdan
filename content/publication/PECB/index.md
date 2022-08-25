@@ -25,13 +25,13 @@ tags: ["Combinatorial bandits", "Transductive bandits", "Best-arm identification
 featured: false
 
 # Custom links (uncomment lines below)
-links:
-  - name: Arxiv
-    url: 'https://arxiv.org/abs/2101.08534'
+#links:
+#  - name: Arxiv
+#    url: 'https://arxiv.org/abs/2101.08534'
 
 url_pdf: 'https://arxiv.org/pdf/2101.08534'
-url_slides: 'alt2021talkpecb.pdf'
 url_video: 'https://www.youtube.com/watch?v=EZHhN4YQh4U'
+url_slides: 'alt2021talkpecb.pdf'
 #url_code: ''
 #url_poster: ''
 

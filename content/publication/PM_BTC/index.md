@@ -25,9 +25,9 @@ tags: ["Bitcoin", "Privacy", "Generative models", "Bipartite graph"]
 featured: false
 
 # Custom links (uncomment lines below)
-links:
-  - name: Arxiv
-    url: 'https://arxiv.org/abs/1812.05451'
+#links:
+#  - name: Arxiv
+#    url: 'https://arxiv.org/abs/1812.05451'
 
 url_pdf: 'https://arxiv.org/pdf/1812.05451'
 #url_code: ''

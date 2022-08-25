@@ -23,13 +23,16 @@ tags: ["Multi-armed bandits", "Best-arm identification", "Bounded distribution",
 featured: false
 
 # Custom links (uncomment lines below)
-links:
-  - name: Arxiv
-    url: 'https://arxiv.org/abs/2206.05979'
+#links:
+#  - name: Arxiv
+#    url: 'https://arxiv.org/abs/2206.05979'
 
 url_pdf: 'https://arxiv.org/pdf/2206.05979'
-#url_code: ''
 #url_poster: ''
+#url_video: ''
+url_slides: 'scoolseminarnpbai.pdf'
+#url_code: ''
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

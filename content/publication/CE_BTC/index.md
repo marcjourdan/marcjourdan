@@ -24,9 +24,9 @@ tags: ["Bitcoin", "Privacy", "Pattern classification", "Bipartite graph"]
 featured: false
 
 # Custom links (uncomment lines below)
-links:
-  - name: Arxiv
-    url: 'https://arxiv.org/abs/1810.11956'
+#links:
+#  - name: Arxiv
+#    url: 'https://arxiv.org/abs/1810.11956'
 
 url_pdf: 'https://arxiv.org/pdf/1810.11956'
 #url_code: ''
