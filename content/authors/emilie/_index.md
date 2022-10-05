@@ -5,11 +5,11 @@ avatar_filename: avatar.jpg
 bio: ""
 interests: ""
 social:
-  - icon: browser
-    icon_pack: fas
+  - icon: cv
+    icon_pack: ai
     link: https://emiliekaufmann.github.io/
   - icon: google-scholar
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=9GE1vx4AAAAJ
 organizations:
   - name: Scool (Inria)

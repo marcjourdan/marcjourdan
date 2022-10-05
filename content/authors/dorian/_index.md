@@ -1,16 +1,16 @@
 ---
-title: Rémy Degenne
-role: INRIA researcher
+title: Dorian Baudry
+role: PhD Student
 avatar_filename: avatar.jpg
 bio: ""
 interests: ""
 social:
   - icon: cv
     icon_pack: ai
-    link: https://remydegenne.github.io/
+    link: https://dbaudry.github.io/
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=H-uIBOwAAAAJ
+    link: https://scholar.google.com/citations?user=RRW-kfYAAAAJ
 organizations:
   - name: Scool (Inria)
     url: https://team.inria.fr/scool/
@@ -23,4 +23,4 @@ email: ""
 superuser: false
 highlight_name: false
 ---
-Check his professional webpage [here](https://remydegenne.github.io/).
+Check his professional webpage [here](https://dbaudry.github.io/).
