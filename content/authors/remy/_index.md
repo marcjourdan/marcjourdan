@@ -4,7 +4,13 @@ role: INRIA researcher
 avatar_filename: avatar.jpg
 bio: ""
 interests: ""
-social: ""
+social:
+  - icon: browser
+    icon_pack: fas
+    link: https://remydegenne.github.io/
+  - icon: google-scholar
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=H-uIBOwAAAAJ
 organizations:
   - name: Scool (Inria)
     url: https://team.inria.fr/scool/
@@ -17,4 +23,4 @@ email: ""
 superuser: false
 highlight_name: false
 ---
-Check his professional webpage [here](https://remydegenne.github.io/)!
+Check his professional webpage [here](https://remydegenne.github.io/).
