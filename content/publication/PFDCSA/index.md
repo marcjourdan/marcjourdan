@@ -2,7 +2,7 @@
 title: "I Know Where You Are Going: Predicting Flight Destinations of Corporate and State Aircraft"
 
 # Authors
-authors: [admin, Karolis Martinkus, David Roschewitz, Martin Strohmeier]
+authors: [admin, karolis, David Roschewitz, martin]
 
 date: "2021-12-23"
 doi: "10.3390/engproc2021013001"

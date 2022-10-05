@@ -2,7 +2,7 @@
 title: "Characterizing Entities in the Bitcoin Blockchain"
 
 # Authors
-authors: [admin, Sebastien Blandin, Laura Wynter, Pralhad Deshpande]
+authors: [admin, Sebastien Blandin, laura, pralhad]
 
 date: "2018-10-29"
 doi: "10.1109/ICDMW.2018.00016"

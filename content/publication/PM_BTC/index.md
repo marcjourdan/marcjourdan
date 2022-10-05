@@ -2,7 +2,7 @@
 title: "A Probabilistic Model of the Bitcoin Blockchain"
 
 # Authors
-authors: [admin, Sebastien Blandin, Laura Wynter, Pralhad Deshpande]
+authors: [admin, Sebastien Blandin, laura, pralhad]
 
 date: "2018-11-07"
 doi: "10.1109/CVPRW.2019.00337"
