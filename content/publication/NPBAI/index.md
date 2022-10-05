@@ -2,7 +2,7 @@
 title: "Top Two Algorithms Revisited"
 
 # Authors
-authors: [admin, remy, Dorian Baudry, Rianne de Heide, emilie]
+authors: [admin, remy, dorian, Rianne de Heide, emilie]
 
 date: "2022-06-13"
 

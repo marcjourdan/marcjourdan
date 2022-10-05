@@ -23,4 +23,4 @@ email: ""
 superuser: false
 highlight_name: false
 ---
-Check her professional webpage [here](https://emiliekaufmann.github.io/).
+Check her professional webpage [here](https://emiliekaufmann.github.io/)!

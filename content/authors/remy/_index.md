@@ -23,4 +23,4 @@ email: ""
 superuser: false
 highlight_name: false
 ---
-Check his professional webpage [here](https://remydegenne.github.io/).
+Check his professional webpage [here](https://remydegenne.github.io/)!
