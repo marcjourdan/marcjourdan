@@ -20,6 +20,6 @@ organizations:
     url: https://www.univ-lille.fr/
 education: ""
 email: ""
-superuser: false
+superuser: true
 highlight_name: false
 ---

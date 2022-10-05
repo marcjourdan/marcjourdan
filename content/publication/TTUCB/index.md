@@ -2,7 +2,7 @@
 title: "Finite-time Analysis of a UCB-based Top Two Algorithm"
 
 # Authors
-authors: [admin, Rémy Degenne]
+authors: [admin, remy]
 
 date: "2022-10-20"
 

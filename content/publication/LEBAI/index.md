@@ -2,7 +2,7 @@
 title: "Choosing Answers in ε-Best-Answer Identification for Linear Bandits"
 
 # Authors
-authors: [admin, Rémy Degenne]
+authors: [admin, remy]
 
 date: "2022-06-09"
 
