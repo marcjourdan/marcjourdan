@@ -2,7 +2,7 @@
 title: "Dealing with Unknown Variances in Best-Arm Identification"
 
 # Authors
-authors: [admin, Rémy Degenne, Emilie Kaufmann]
+authors: [admin, remy, emilie]
 
 date: "2022-10-03"
 
