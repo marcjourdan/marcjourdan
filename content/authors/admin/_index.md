@@ -23,7 +23,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/marc-jourdan/
   - icon: twitter
-    icon_pack: fas
+    icon_pack: fab
     link: https://twitter.com/marcjourdan5
 organizations:
   - name: Scool (Inria)
