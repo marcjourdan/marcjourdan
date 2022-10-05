@@ -1,7 +1,9 @@
 ---
 title: Emilie Kaufmann
 role: CNRS researcher
-avatar_filename: emilie.jpg
+avatar_filename: avatar.jpg
+bio: ""
+interests: ""
 social:
   - icon: browser
     icon_pack: fas
@@ -16,6 +18,7 @@ organizations:
     url: https://www.cristal.univ-lille.fr/
   - name: Univ. Lille
     url: https://www.univ-lille.fr/
+education: ""
 email: ""
 superuser: false
 highlight_name: false
