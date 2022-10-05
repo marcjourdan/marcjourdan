@@ -12,8 +12,8 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?user=_Yo_lHcAAAAJ
 organizations:
-  - name: Department of Mathematics, Vrije Universiteit Amsterdam
-    url: https://vu.nl/en/about-vu/faculties/faculty-of-science/departments/mathematics
+  - name: Vrije Universiteit Amsterdam
+    url: https://vu.nl/en
 education: ""
 email: ""
 superuser: false

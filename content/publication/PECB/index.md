@@ -2,7 +2,7 @@
 title: "Efficient Pure Exploration for Combinatorial Bandits with Semi-Bandit Feedback"
 
 # Authors
-authors: [admin, Mojmír Mutný, Johannes Kirschner, Andreas Krause]
+authors: [admin, mojmír, johannes, krause]
 
 date: "2021-01-21"
 doi: ""

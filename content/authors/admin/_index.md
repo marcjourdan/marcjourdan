@@ -45,7 +45,7 @@ education:
       year: "2015-2018"
 email: ""
 superuser: true
-highlight_name: false
+highlight_name: true
 ---
 I am a second-year PhD student at CRIStAL (CNRS) in the Inria Scool team (formerly SequeL), under the supervision of [Emilie Kaufmann](https://emiliekaufmann.github.io/) and [Rémy Degenne](https://remydegenne.github.io/). Prior to my PhD, I graduated from ETH Zurich and École Polytechnique.
 
