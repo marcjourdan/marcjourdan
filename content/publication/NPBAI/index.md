@@ -12,8 +12,8 @@ date: "2022-06-13"
 # 7 = Thesis; 8 = Patent
 publication_types: ["1"]
 
-publication: arXiv preprint
-#publication_short: ICDMW 2018
+publication: Conference on Neural Information Processing Systems
+publication_short: NeurIPS 2022
 
 abstract: Top Two algorithms arose as an adaptation of Thompson sampling to best arm identification in multi-armed bandit models (Russo, 2016), for parametric families of arms. They select the next arm to sample from by randomizing among two candidate arms, a leader and a challenger. Despite their good empirical performance, theoretical guarantees for fixed-confidence best arm identification have only been obtained when the arms are Gaussian with known variances. In this paper, we provide a general analysis of Top Two methods, which identifies desirable properties of the leader, the challenger, and the (possibly non-parametric) distributions of the arms. As a result, we obtain theoretically supported Top Two algorithms for best arm identification with bounded distributions. Our proof method demonstrates in particular that the sampling step used to select the leader inherited from Thompson sampling can be replaced by other choices, like selecting the empirical best arm.
 
