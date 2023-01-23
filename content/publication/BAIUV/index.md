@@ -4,7 +4,7 @@ title: "Dealing with Unknown Variances in Best-Arm Identification"
 # Authors
 authors: [admin, remy, emilie]
 
-date: "2023-02-20"
+date: "2023-01-23"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
