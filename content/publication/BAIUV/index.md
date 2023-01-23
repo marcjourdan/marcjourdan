@@ -12,8 +12,8 @@ date: "2022-10-03"
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
 
-publication: Preprint 2022
-publication_short: Preprint 2022
+publication: The 34th International Conference on Algorithmic Learning Theory
+publication_short: ALT 2023
 
 abstract: The problem of identifying the best arm among a collection of items having Gaussian rewards distribution is well understood when the variances are known. Despite its practical relevance for many applications, few works studied it for unknown variances. In this paper we introduce and analyze two approaches to deal with unknown variances, either by plugging in the empirical variance or by adapting the transportation costs. In order to calibrate our two stopping rules, we derive new time-uniform concentration inequalities, which are of independent interest. Then, we illustrate the theoretical and empirical performances of our two sampling rule wrappers on Track-and-Stop and on a Top Two algorithm. Moreover, by quantifying the impact on the sample complexity of not knowing the variances, we reveal that it is rather small.
 
