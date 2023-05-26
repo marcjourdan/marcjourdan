@@ -31,7 +31,7 @@ url_pdf: 'https://arxiv.org/pdf/2206.05979'
 url_poster: 'posternpbai.pdf'
 #url_video: ''
 url_slides: 'scoolseminarnpbai.pdf'
-#url_code: ''
+url_code: 'https://proceedings.neurips.cc/paper_files/paper/2022/file/ab5f5f22e3e09f4424592ffb06840ab0-Supplemental-Conference.zip'
 
 
 # Featured image
