@@ -28,7 +28,7 @@ featured: false
 #    url: 'https://arxiv.org/abs/2210.05431'
 
 url_pdf: 'https://arxiv.org/abs/2305.16041'
-url_poster: 'posterttebai'
+url_poster: 'posterttebai.pdf'
 #url_video: ''
 #url_slides: ''
 #url_code: ''
