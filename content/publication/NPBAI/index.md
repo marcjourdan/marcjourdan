@@ -28,7 +28,7 @@ featured: false
 #    url: 'https://arxiv.org/abs/2206.05979'
 
 url_pdf: 'https://arxiv.org/pdf/2206.05979'
-#url_poster: ''
+url_poster: 'posternpbai.pdf'
 #url_video: ''
 url_slides: 'scoolseminarnpbai.pdf'
 #url_code: ''
