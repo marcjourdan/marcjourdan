@@ -47,7 +47,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a second-year PhD student in the Inria [Scool](https://team.inria.fr/scool/) team (formerly [SequeL](https://team.inria.fr/sequel/)) at [CRIStAL](https://www.cristal.univ-lille.fr/) (CNRS), under the supervision of [Emilie Kaufmann](https://emiliekaufmann.github.io/) and [Rémy Degenne](https://remydegenne.github.io/). Prior to my PhD, I graduated from ETH Zurich and École Polytechnique.
+I am a third-year PhD student in the Inria [Scool](https://team.inria.fr/scool/) team (formerly [SequeL](https://team.inria.fr/sequel/)) at [CRIStAL](https://www.cristal.univ-lille.fr/) (CNRS), under the supervision of [Emilie Kaufmann](https://emiliekaufmann.github.io/) and [Rémy Degenne](https://remydegenne.github.io/). Prior to my PhD, I graduated from ETH Zurich and École Polytechnique.
 
 My main research interest is Multi-Armed Bandits, with a particular focus on identification problems. I also explore the theoretical understanding of these algorithms when only few samples are available.
 
