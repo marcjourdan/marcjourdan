@@ -27,7 +27,7 @@ featured: false
 #  - name: Arxiv
 #    url: 'https://arxiv.org/abs/2206.05979'
 
-url_pdf: 'https://arxiv.org/pdf/2310.10359'
+url_pdf: 'https://arxiv.org/abs/2310.10359'
 #url_poster: ''
 #url_video: ''
 #url_slides: ''
