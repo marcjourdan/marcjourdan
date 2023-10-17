@@ -1,5 +1,5 @@
 ---
-title: Clemence Reda
+title: Clémence Réda
 role: Post-Doctoral Researcher
 avatar_filename: avatar.jpeg
 bio: ""
