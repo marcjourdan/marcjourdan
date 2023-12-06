@@ -29,9 +29,9 @@ featured: false
 
 url_pdf: 'https://arxiv.org/pdf/2309.02202'
 url_poster: 'posterprivatebai.pdf'
-#url_video: ''
-#url_slides: ''
-#url_code: ''
+url_video: 'https://neurips.cc/virtual/2023/poster/71838'
+url_slides: 'slidespbai.pdf'
+url_code: 'https://openreview.net/attachment?id=NsPbMwyxRl&name=supplementary_material'
 
 
 # Featured image

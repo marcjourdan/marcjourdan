@@ -29,9 +29,9 @@ featured: false
 
 url_pdf: 'https://arxiv.org/abs/2305.16041'
 url_poster: 'posterttebai.pdf'
-#url_video: ''
-#url_slides: ''
-#url_code: ''
+url_video: 'https://neurips.cc/virtual/2023/poster/71820'
+url_slides: 'ttebaislides.pdf'
+url_code: 'https://openreview.net/attachment?id=OLk3F64eSg&name=supplementary_material'
 
 
 # Featured image

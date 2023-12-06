@@ -29,9 +29,9 @@ featured: false
 
 url_pdf: 'https://arxiv.org/pdf/2210.05431'
 url_poster: 'posterttucb.pdf'
-#url_video: ''
-#url_slides: ''
-#url_code: ''
+url_video: 'https://neurips.cc/virtual/2023/poster/72404'
+url_slides: 'slidesttucb.pdf'
+url_code: 'https://openreview.net/attachment?id=CxjmYRP9Ji&name=supplementary_material'
 
 
 # Featured image
