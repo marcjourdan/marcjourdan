@@ -12,7 +12,12 @@ address:
   country: 'Switzerland'
 
 summary: ''
-abstract: ''
+abstract: 'Top Two algorithms arose as an adaptation of Thompson sampling to best arm identification in multi-armed bandit models, for parametric families of arms. They select the next arm to sample from among two candidate arms, a leader and a challenger. Despite their
+ simplicity and good empirical performance, theoretical guarantees for fixed-confidence best arm identification have only been obtained asymptotically (i.e. vanishing error level) when the arms are Gaussian with known variances. In this talk, I will present
+ recent advances on the theoretical understanding of Top Two algorithms, and sketch remaining open problems. Our first contribution is a general analysis of Top Two methods in the asymptotic regime, which identifies desirable properties of the leader, the challenger,
+ and the (possibly non-parametric) distributions of the arms. As a result, we obtain theoretically supported Top Two algorithms for best arm identification with bounded distributions. Our second contribution is to derive the first non-asymptotic upper bound
+ on the expected sample complexity of a Top Two algorithm, which holds for any error level and any instance having a unique best arm. In particular, we identify sufficient properties of the leader (seen as a regret minimization algorithm) for it to hold. As
+ a consequence, we propose the TTUCB (Top Two UCB) algorithm which builds on the UCB algorithm and uses tracking instead of sampling to choose between the leader and the challenger.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

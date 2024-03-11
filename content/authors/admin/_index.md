@@ -36,7 +36,7 @@ education:
   courses:
     - course: PhD Student
       institution: Scool (Inria) / CRIStAL (CNRS) / Univ. Lille
-      year: "2021-now"
+      year: "2021-2024"
     - course: MSc ETH in Data Science
       institution: ETH Zurich
       year: "2018-2020"

@@ -27,7 +27,7 @@ featured: false
 #  - name: Arxiv
 #    url: 'https://arxiv.org/abs/2210.05431'
 
-url_pdf: 'https://arxiv.org/abs/2305.16041'
+url_pdf: 'https://arxiv.org/pdf/2305.16041'
 url_poster: 'posterttebai.pdf'
 url_video: 'https://neurips.cc/virtual/2023/poster/71820'
 url_slides: 'ttebaislides.pdf'
