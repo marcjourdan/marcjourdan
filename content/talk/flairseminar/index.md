@@ -60,5 +60,3 @@ projects: []
 # Enable math on this page?
 math: true
 ---
-
-

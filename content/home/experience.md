@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Visitor
+    company: Laboratory for Artificial Intelligence and Learning Algorithms (Università degli Studi di Milano)
+    company_url: 'https://sites.google.com/view/lailaunimi/home'
+    company_logo: laila-logo
+    location: Milan, Italy
+    date_start: '2024-04-01'
+    date_end: '2024-06-30'
+    description: 3-months research visit to collaborate with Prof. Dr. Nicolò Cesa-Bianchi.
+
   - title: Research Intern
     company: Scool (Inria Lille)
     company_url: 'https://team.inria.fr/scool/'

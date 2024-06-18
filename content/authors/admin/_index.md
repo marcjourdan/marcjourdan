@@ -2,7 +2,7 @@
 title: Marc Jourdan
 role: PhD Student
 avatar_filename: avatar.jpg
-bio: PhD student at Scool (Inria), I study identification problems in
+bio: PhD from Scool (Inria Lille), I study identification problems in
   Multi-Armed Bandits.
 interests:
   - Machine Learning
@@ -34,7 +34,7 @@ organizations:
     url: https://www.univ-lille.fr/
 education:
   courses:
-    - course: PhD Student
+    - course: PhD in Computer Science
       institution: Scool (Inria) / CRIStAL (CNRS) / Univ. Lille
       year: "2021-2024"
     - course: MSc ETH in Data Science
@@ -47,7 +47,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a third-year PhD student in the Inria [Scool](https://team.inria.fr/scool/) team (formerly [SequeL](https://team.inria.fr/sequel/)) at [CRIStAL](https://www.cristal.univ-lille.fr/) (CNRS), under the supervision of [Emilie Kaufmann](https://emiliekaufmann.github.io/) and [Rémy Degenne](https://remydegenne.github.io/). Prior to my PhD, I graduated from ETH Zurich and École Polytechnique.
+I received my PhD in computer science from the University of Lille, where I worked under the supervision of [Emilie Kaufmann](https://emiliekaufmann.github.io/) and [Rémy Degenne](https://remydegenne.github.io/) in the Inria [Scool](https://team.inria.fr/scool/) team (formerly [SequeL](https://team.inria.fr/sequel/)) at [CRIStAL](https://www.cristal.univ-lille.fr/) (CNRS). Prior to my PhD, I graduated from ETH Zurich and École Polytechnique.
 
 My main research interest is Multi-Armed Bandits, with a particular focus on identification problems. I also explore the theoretical understanding of these algorithms when only few samples are available.
 
