@@ -1,6 +1,6 @@
 ---
 title: Marc Jourdan
-role: PhD Student
+role: Researcher
 avatar_filename: avatar.jpg
 bio: PhD from Scool (Inria Lille), I study identification problems in
   Multi-Armed Bandits.
