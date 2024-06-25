@@ -10,7 +10,7 @@ date: "2024-06-10"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 publication: 
 publication_short: 
@@ -30,7 +30,7 @@ featured: false
 url_pdf: 'https://arxiv.org/pdf/2406.06408'
 #url_poster: 'posterprivatebai.pdf'
 #url_video: 'https://neurips.cc/virtual/2023/poster/71838'
-#url_slides: 'slidespbai.pdf'
+url_slides: 'slidesdpbai.pdf'
 url_code: 'https://github.com/achraf-azize/DP-BAI'
 
 
