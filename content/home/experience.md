@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.epfl.ch/labs/tml/'
     company_logo: epfl-logo
     location: Lausanne, Switzerland
-    date_start: ''
+    date_start: '2025-09-30'
     date_end: '2024-10-01'
     description: Post-doctoral researcher at EPFL, working with Dr. Nicolas Flammarion.
   - title: Research Visitor
