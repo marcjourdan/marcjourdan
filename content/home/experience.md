@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Post-doctoral Researcher
+    company: Theory of Machine Learning lab (EPFL)
+    company_url: 'https://www.epfl.ch/labs/tml/'
+    company_logo: epfl-logo
+    location: Lausanne, Switzerland
+    date_start: ''
+    date_end: '2024-10-01'
+    description: Post-doctoral researcher at EPFL, working with Dr. Nicolas Flammarion.
   - title: Research Visitor
     company: Laboratory for Artificial Intelligence and Learning Algorithms (Università degli Studi di Milano)
     company_url: 'https://sites.google.com/view/lailaunimi/home'
