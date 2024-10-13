@@ -28,7 +28,7 @@ experience:
     company_logo: epfl-logo
     location: Lausanne, Switzerland
     date_start: '2024-10-01'
-    date_end: '2025-09-30'
+    date_end: ''
     description: Post-doctoral researcher at EPFL, working with Dr. Nicolas Flammarion.
   - title: Research Visitor
     company: Laboratory for Artificial Intelligence and Learning Algorithms (Università degli Studi di Milano)
