@@ -39,7 +39,7 @@ featured: false
 #  - name: Arxiv
 #    url: 'https://arxiv.org/abs/2210.00974'
 
-url_pdf: 'phdthesis.pdf'
+url_pdf: 'https://pepite-depot.univ-lille.fr/LIBRE/EDMADIS/2024/2024ULILB011.pdf'
 #url_poster: ''
 url_video: 'https://youtu.be/tTCDza9J6PY'
 url_slides: 'phddefense.pdf'
