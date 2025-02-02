@@ -1,14 +1,14 @@
 ---
 title: Marc Jourdan
-role: Researcher
+role: Post-Doctoral Researcher
 avatar_filename: avatar.jpg
-bio: PhD from Scool (Inria Lille), I study identification problems in
-  Multi-Armed Bandits.
+bio: Post-Doctoral Researcher at EPFL in the TML lab.
 interests:
-  - Machine Learning
+  - Theory of Large Language Models
   - Multi-Armed Bandits
-  - Reinforcement Learning
   - Online Learning
+  - Statistics
+  - Machine Learning
 social:
   - icon: envelope
     icon_pack: fas
@@ -18,7 +18,7 @@ social:
     link: https://scholar.google.com/citations?user=BOXGjhgAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/Maru92
+    link: https://github.com/marcjourdan
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/marc-jourdan/
@@ -26,12 +26,10 @@ social:
     icon_pack: fab
     link: https://twitter.com/marcjourdan5
 organizations:
-  - name: Scool (Inria)
-    url: https://team.inria.fr/scool/
-  - name: CRIStAL (CNRS)
-    url: https://www.cristal.univ-lille.fr/
-  - name: Univ. Lille
-    url: https://www.univ-lille.fr/
+  - name: TML lab
+    url: https://www.epfl.ch/labs/tml/
+  - name: EPFL
+    url: https://www.epfl.ch/schools/ic/
 education:
   courses:
     - course: PhD in Computer Science
@@ -47,8 +45,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I received my PhD in computer science from the University of Lille, where I worked under the supervision of [Emilie Kaufmann](https://emiliekaufmann.github.io/) and [Rémy Degenne](https://remydegenne.github.io/) in the Inria [Scool](https://team.inria.fr/scool/) team (formerly [SequeL](https://team.inria.fr/sequel/)) at [CRIStAL](https://www.cristal.univ-lille.fr/) (CNRS). Prior to my PhD, I graduated from ETH Zurich and École Polytechnique.
+I am a postdoctoral researcher in the [Theory of Machine Learning](https://www.epfl.ch/labs/tml/) lab at [EPFL](https://www.epfl.ch/schools/ic/), working with [Nicolas Flammarion](https://people.epfl.ch/nicolas.flammarion) to deepen the theoretical understanding of Large Language Models and their advanced learning capabilities. My research interests include multi-armed bandits, reinforcement learning, online learning, imitation learning, optimization, statistics, and machine learning in general. I focus on developing theoretically well-founded and practically applicable algorithms.
 
-My main research interest is Multi-Armed Bandits, with a particular focus on identification problems. I also explore the theoretical understanding of these algorithms when only few samples are available.
+I received my PhD in Computer Science from the [University of Lille](https://www.univ-lille.fr/), where I worked under the direction of [Emilie Kaufmann](https://emiliekaufmann.github.io/) and [Rémy Degenne](https://remydegenne.github.io/) in the Inria [Scool](https://team.inria.fr/scool/) team. My PhD research focused on pure exploration problems for stochastic multi-armed bandits. My thesis endeavored to establish the Top Two approach as a principled methodology offering nearly optimal theoretical guarantees alongside state-of-the-art empirical performance. My thesis touched upon various aspects of bandit theory: parametric and non-parametric classes of distributions, structural assumptions on their means, and different identification problems. During my PhD, I had the opportunity to visit [Nicolò Cesa-Bianchi](https://cesa-bianchi.di.unimi.it/) at the [University of Milan](https://www.unimi.it/en) in the [Laboratory for Artificial Intelligence and Learning Algorithms](https://sites.google.com/view/lailaunimi) for three months, where I worked on adversarial regret minimization for contextual linear bandits.
 
-My research interests also include reinforcement learning, online learning, Bayesian optimization, statistics and machine learning in general. I focus on developing theoretically well-founded and practically applicable algorithms.
+Before my PhD, I graduated from [Ecole Polytechnique](https://www.polytechnique.edu/) and [ETH Zurich](https://inf.ethz.ch/). I conducted my Master's thesis in the [Learning & Adaptive Systems](https://las.inf.ethz.ch/) group of [Andreas Krause](https://las.inf.ethz.ch/krausea), where I studied pure exploration for combinatorial bandits with semi-bandit feedback.

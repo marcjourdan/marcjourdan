@@ -21,17 +21,17 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: marc.jourdan@inria.fr
+email: marc.jourdan@epfl.ch
 address:
-  street: "<html>Inria Lille-Nord Europe<br/>40 Avenue Halley</html>"
-  city: Villeneuve-d'Ascq
-  postcode: '59650'
-  country: France
-  country_code: FR
+  street: "<html>EPFL IC IINFCOM TML<br/>Bâtiment INR</html>"
+  city: Lausanne
+  postcode: '1015'
+  country: Switzerland
+  country_code: CH
 coordinates:
-  latitude: '50.60604'
-  longitude: '3.14816'
-directions: Bâtiment A
+  latitude: '46.51836'
+  longitude: '6.56256'
+directions: INR 111
 
 # Site header
 
