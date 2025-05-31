@@ -6,9 +6,10 @@ bio: Post-Doctoral Researcher at EPFL in the TML lab.
 interests:
   - Theory of Large Language Models
   - Multi-Armed Bandits
+  - Reinforcement Learning
   - Online Learning
   - Statistics
-  - Machine Learning
+  - Optimization
 social:
   - icon: envelope
     icon_pack: fas
@@ -45,8 +46,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a postdoctoral researcher in the [Theory of Machine Learning](https://www.epfl.ch/labs/tml/) lab at [EPFL](https://www.epfl.ch/schools/ic/), working with [Nicolas Flammarion](https://people.epfl.ch/nicolas.flammarion) to deepen the theoretical understanding of Large Language Models and their advanced learning capabilities. My research interests include multi-armed bandits, reinforcement learning, online learning, imitation learning, optimization, statistics, and machine learning in general. I focus on developing theoretically well-founded and practically applicable algorithms.
+I am a postdoctoral researcher in the [Theory of Machine Learning](https://www.epfl.ch/labs/tml/) lab at [EPFL](https://www.epfl.ch/schools/ic/), working with [Nicolas Flammarion](https://people.epfl.ch/nicolas.flammarion) on the theoretical foundations of post-training for Large Language Models. My research interests include multi-armed bandits, sequential hypothesis testing, differential privacy, reinforcement learning, imitation learning, online learning, statistics, and optimization. I focus on developing theoretically well-founded and practically applicable algorithms.
 
-I received my PhD in Computer Science from the [University of Lille](https://www.univ-lille.fr/), where I worked under the direction of [Emilie Kaufmann](https://emiliekaufmann.github.io/) and [Rémy Degenne](https://remydegenne.github.io/) in the Inria [Scool](https://team.inria.fr/scool/) team. My PhD research focused on pure exploration problems for stochastic multi-armed bandits. My thesis endeavored to establish the Top Two approach as a principled methodology offering nearly optimal theoretical guarantees alongside state-of-the-art empirical performance. My thesis touched upon various aspects of bandit theory: parametric and non-parametric classes of distributions, structural assumptions on their means, and different identification problems. During my PhD, I had the opportunity to visit [Nicolò Cesa-Bianchi](https://cesa-bianchi.di.unimi.it/) at the [University of Milan](https://www.unimi.it/en) in the [Laboratory for Artificial Intelligence and Learning Algorithms](https://sites.google.com/view/lailaunimi) for three months, where I worked on adversarial regret minimization for contextual linear bandits.
+I earned my PhD in Computer Science from the [University of Lille](https://www.univ-lille.fr/), under the supervision of [Emilie Kaufmann](https://emiliekaufmann.github.io/) and [Rémy Degenne](https://remydegenne.github.io/) within the Inria [Scool](https://team.inria.fr/scool/) team. My research focused on pure exploration problems in stochastic multi-armed bandits. In my thesis, I aimed to establish the Top-Two approach as a principled methodology that offers both near-optimal theoretical guarantees and state-of-the-art empirical performance. I addressed various facets of bandit theory, including parametric and non-parametric distribution classes, structural assumptions on mean rewards, and a range of identification problems. I was honored to receive the runner-up [PhD Award](https://afia.asso.fr/le-prix-de-these-afia/) from [AFIA](https://afia.asso.fr/) (French Association for Artificial Intelligence). During my PhD, I also had the opportunity to spend three months at the [University of Milan](https://www.unimi.it/en), visiting [Nicolò Cesa-Bianchi](https://cesa-bianchi.di.unimi.it/) in the [Laboratory for Artificial Intelligence and Learning Algorithms](https://sites.google.com/view/lailaunimi).
 
 Before my PhD, I graduated from [Ecole Polytechnique](https://www.polytechnique.edu/) and [ETH Zurich](https://inf.ethz.ch/). I conducted my Master's thesis in the [Learning & Adaptive Systems](https://las.inf.ethz.ch/) group of [Andreas Krause](https://las.inf.ethz.ch/krausea), where I studied pure exploration for combinatorial bandits with semi-bandit feedback.

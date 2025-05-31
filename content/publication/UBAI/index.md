@@ -27,11 +27,11 @@ featured: false
 #  - name: Arxiv
 #    url: 'https://arxiv.org/abs/2206.05979'
 
-url_pdf: 'https://arxiv.org/pdf/2411.01898'
-#url_poster: ''
+url_pdf: 'https://proceedings.mlr.press/v258/poiani25a.html'
+url_poster: 'unittposter.pdf'
 #url_video: ''
 #url_slides: ''
-#url_code: ''
+url_code: 'https://github.com/riccardopoiani/unimodal-pure-exp'
 
 
 # Featured image
