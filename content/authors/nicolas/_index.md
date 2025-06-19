@@ -14,7 +14,7 @@ social:
 organizations:
   - name: Theory of Machine Learning Lab
     url: https://www.epfl.ch/labs/tml/
-  - name: EPFL (CNRS)
+  - name: EPFL
     url: https://www.epfl.ch/en/
 education: ""
 email: ""
