@@ -28,9 +28,9 @@ featured: false
 #    url: 'https://arxiv.org/abs/2206.05979'
 
 url_pdf: 'https://arxiv.org/pdf/2505.23557'
-#url_poster: ''
-#url_video: ''
-#url_slides: ''
+url_poster: 'posterldps.pdf'
+url_video: 'https://icml.cc/virtual/2025/poster/45822'
+url_slides: 'slidesldps.pdf'
 url_code: 'https://github.com/tml-epfl/learning-parametric-distributions-from-samples-and-preferences'
 
 
