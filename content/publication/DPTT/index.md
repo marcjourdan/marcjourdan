@@ -28,8 +28,8 @@ featured: false
 #    url: 'https://arxiv.org/abs/2206.05979'
 
 url_pdf: 'https://arxiv.org/pdf/2510.17348'
-# url_poster: ''
-# url_video: ''
+url_poster: 'posterdptt.pdf'
+url_video: 'https://neurips.cc/virtual/2025/loc/san-diego/poster/115187'
 # url_slides: ''
 url_code: 'https://openreview.net/attachment?id=y4AXO2pFAh&name=supplementary_material'
 
