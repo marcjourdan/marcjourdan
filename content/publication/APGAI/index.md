@@ -2,7 +2,7 @@
 title: "An Anytime Algorithm for Good Arm Identification"
 
 # Authors
-authors: [admin, clemence, Andrée Delahaye-Duriez]
+authors: [admin, Andrée Delahaye-Duriez, clemence]
 
 date: "2025-12-13"
 
