@@ -4,7 +4,7 @@ title: "An Anytime Algorithm for Good Arm Identification"
 # Authors
 authors: [admin, clemence, Andrée Delahaye-Duriez]
 
-date: "2023-12-13"
+date: "2025-12-13"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
