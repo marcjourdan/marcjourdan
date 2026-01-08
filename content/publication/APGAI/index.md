@@ -31,7 +31,7 @@ url_pdf: 'https://arxiv.org/pdf/2310.10359'
 #url_poster: ''
 #url_video: ''
 #url_slides: ''
-url_code: 'https://drive.switch.ch/index.php/s/jxNUbIPPL36Ico0/download'
+url_code: 'https://github.com/clreda/apgai'
 
 
 # Featured image
