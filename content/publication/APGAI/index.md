@@ -4,7 +4,7 @@ title: "An Anytime Algorithm for Good Arm Identification"
 # Authors
 authors: [admin, Andrée Delahaye-Duriez, clemence]
 
-date: "2025-12-13"
+date: "2026-03-01"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,7 +27,7 @@ featured: false
 #  - name: Arxiv
 #    url: 'https://arxiv.org/abs/2206.05979'
 
-url_pdf: 'https://arxiv.org/pdf/2310.10359'
+url_pdf: 'https://jmlr.org/papers/volume27/24-0680/24-0680.pdf'
 #url_poster: ''
 #url_video: ''
 #url_slides: ''
