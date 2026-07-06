@@ -27,7 +27,7 @@ featured: false
 #  - name: Arxiv
 #    url: 'https://arxiv.org/abs/2206.05979'
 
-url_pdf: 'https://arxiv.org/pdf/2406.06408'
+url_pdf: 'https://jmlr.org/papers/volume27/24-0880/24-0880.pdf'
 #url_poster: 'posterprivatebai.pdf'
 #url_video: 'https://neurips.cc/virtual/2023/poster/71838'
 url_slides: 'slidesdpbai.pdf'
